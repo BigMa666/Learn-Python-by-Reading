@@ -62,3 +62,9 @@ Multiply - *
 Division - /
 Remainder - %
 ```
+
+## Intermediate Module
+### So now you know the basics of python yay !!
+### Now lets get into the 'Intermediate Module'
+
+### We will be learning 
