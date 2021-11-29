@@ -48,8 +48,8 @@ print(type(stre))
 ```
 ## ***I will discuss other data types later in this course untill then these are enough.***
 
-### Numbers and Maths Ops
-#### We use Maths in Python. Lets see them now - 
+### Numbers and Mathematical Operations
+#### We can execute mathematical operations in Python. Lets see them now - 
 
 > So we use the same symbols as we use in Maths for addition and subtraction , for multiplication, dividion and remainder we have other
 > symbols so lets see them. Basic examples are there in 
