@@ -5,3 +5,4 @@
 ```
 print("Hello Python")
 ```
+## Your Next Lesson - [Variables](2-Variables.md)

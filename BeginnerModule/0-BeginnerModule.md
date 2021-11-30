@@ -1,5 +1,9 @@
 # Beginner Module 
-### In this module you will type your first line of Python code. You learn basics of Python.
+### In this module you will type your first line of Python code. You will learn 
+- Variables
+- All the Data Types in Python 
+- Comments
+- How to  Perform Mathematical Operations
 
 ## Chapters
 1. [Hello Python](1-HelloPython.md)

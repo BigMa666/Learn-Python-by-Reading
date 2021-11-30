@@ -8,3 +8,6 @@
 | Subtraction | - | `print(5-1)` |
 | Multiplication | * | `print(4*5)` |
 | Division | / | `print(20/5)` |
+
+## Code File - [Mathematical Operations](Python-Scripts\mathematicalops.py)
+## Your Next Lesson - 

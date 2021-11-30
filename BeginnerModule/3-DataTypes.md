@@ -31,4 +31,5 @@ print(floate)
 print(type(floate)) #To check which type of data type it is
 ```
 ## ***Other Data Types are coming soon!***
-
+## Code File - [Data Types](Python-Scripts\datatypes.py)
+## Your Next Lesson - [Comments](4-Comments.md)

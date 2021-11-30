@@ -9,3 +9,5 @@ Thus **Variables** == Jar and Data == Cookies.
 name = "James" # We are storing the name 'James' in 'name' variable.
 age = '28' # We are storing the age '28' in age variable.
 print(name, age)
+```
+## Your Next Lesson - [Data Types](3-DataTypes.md)
