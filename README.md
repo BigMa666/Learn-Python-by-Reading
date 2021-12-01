@@ -19,9 +19,10 @@ In this repository I have uploaded all essentials of python. You can just read o
 ## Chapters
 1. [Hello Python](BeginnerModule\1-HelloPython.md)
 2. [Variables](BeginnerModule\2-Variables.md)
-3. [Data Types](BeginnerModule\3-DataTypes.md)
-4. [Comments](BeginnerModule\4-Comments.md)
-5. [Mathematical Operations](BeginnerModule\5-MathematicalOps.md)
+3. [Data Types](BeginnerModule\3-DataTypesPT-1.md)
+4. [Data Types Part 2](BeginnerModule\4-DataTypesPT-2.md)
+5. [Comments](BeginnerModule\5-Comments.md)
+6. [Mathematical Operations](BeginnerModule\6-MathematicalOps.md)
 
 ## Intermediate Module
 ### So now you know the basics of Python yay !!
