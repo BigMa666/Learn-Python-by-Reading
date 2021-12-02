@@ -29,8 +29,3 @@ print(type(x))
 print(30<45) # Comparing whether 30 is less than 45
 print(3**2 == 2*2) # Comparing whether 3sq is equal to 2 * 2
 
-#Lists
-marks = [95, 45, 80, 100, 95]
-students  = ["James", "Leon", "Ram"]
-answers = [True, False, False, True]
-print(marks, marks[2])
