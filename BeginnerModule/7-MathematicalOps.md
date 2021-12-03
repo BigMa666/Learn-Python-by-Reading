@@ -9,5 +9,5 @@
 | Multiplication | * | `print(4*5)` |
 | Division | / | `print(20/5)` |
 
-## Code File - [Mathematical Operations](Python-Scripts\mathematicalops.py)
+## Code File - [Mathematical Operations Code file](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/Python-Scripts/mathematicalops.py)
 ## Your Next Lesson - 

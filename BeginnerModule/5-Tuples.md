@@ -17,3 +17,5 @@ answers = (True, False, False, True, False)
 print(type(marks))
 print(marks[0] + " " + "are the marks of " + students[0])
 ```
+## Code File -  [Tuples code File](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/Python-Scripts/tuples.py)
+## Your Next  Lesson - [Comments](6-Comments.md)

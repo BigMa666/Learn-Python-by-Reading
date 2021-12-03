@@ -49,5 +49,5 @@ print(45>30) # Comparing whether 45 is greater than 30.
 ```
 
 ## ***Other Data Types are coming soon!***
-## Code File - [Data Types](Python-Scripts\datatypes.py)
-## Your Next Lesson - [Data Types Part 2](4-DataTypesPT-2.md)
+## Code File - [Data Types](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/Python-Scripts/datatypes.py)
+## Your Next Lesson - [Lists](4-Lists.md)

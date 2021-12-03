@@ -120,3 +120,5 @@ del tasks # Deletes the whole list.
 tasks = ['Get Up', 'Brush the teeth', 'Bath', 'Breakfast']
 tasks.clear()
 ```
+## Code File - [Lists Code file](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/Python-Scripts/lists.py)
+## Your Next Lesson - [Tuples](5-Tuples.md)

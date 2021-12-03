@@ -4,7 +4,7 @@ In this repository I have uploaded all essentials of python. You can just read o
 
 
 ### We have divided this course into 3 Distinct Modules
-1. [Beginner Module](BeginnerModule\0-Beginnermodule.md)
+1. [Beginner Module](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/0-BeginnerModule.md)
 2. Intermediate Module
 3. Expert Module
 > Currently we are developing the Beginner Module other modules will be available soon
@@ -17,12 +17,13 @@ In this repository I have uploaded all essentials of python. You can just read o
 - How to  Perform Mathematical Operations
 
 ## Chapters
-1. [Hello Python](BeginnerModule\1-HelloPython.md)
-2. [Variables](BeginnerModule\2-Variables.md)
-3. [Data Types](BeginnerModule\3-DataTypesPT-1.md)
-4. [Data Types Part 2](BeginnerModule\4-DataTypesPT-2.md)
-5. [Comments](BeginnerModule\5-Comments.md)
-6. [Mathematical Operations](BeginnerModule\6-MathematicalOps.md)
+1. [Hello Python](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/1-HelloPython.md)
+2. [Variables](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/2-Variables.md)
+3. [Data Types](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/3-DataTypes.md)
+4. [Lists](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/4-Lists.md)
+5. [Tuples](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/5-Tuples.md)
+6. [Comments](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/6-Comments.md)
+7. [Mathematical Operations](https://github.com/kaarn101/Learn-Python-by-Reading/blob/main/BeginnerModule/7-MathematicalOps.md)
 
 ## Intermediate Module
 ### So now you know the basics of Python yay !!

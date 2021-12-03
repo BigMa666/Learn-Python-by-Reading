@@ -6,4 +6,4 @@
 ```python
 print(4+5) # Here we are adding 4 and 5
 ```
-## Your Next Lesson - [Mathematical Operations](5-MathematicalOps.md)
+## Your Next Lesson - [Mathematical Operations](7-MathematicalOps.md)
